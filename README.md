@@ -11,7 +11,7 @@ https://qiita.com/potara/items/473b44d1eeb9533330c9
 # 利用方法
 
 以下の URL からプラグインファイルをダウンロードしてください。  
-https://github.com/potaracom/barcode-scanner-for-create/releases/download/v2/barcode-scanner-for-create-ver2.plugin.zip  
+https://github.com/potaracom/barcode-scanner-for-create/releases/download/v3/barcode-scanner-for-create-ver3.plugin.zip  
 利用を開始すると有効期間が 30 日に設定されます。
 
 # 30 日以降も利用する場合
@@ -26,6 +26,10 @@ https://github.com/potaracom/barcode-scanner-for-create/releases/download/v2/bar
 その後、プラグイン設定を再保存していただくことで有効期限以降も利用できるようになります。
 
 # 更新情報
+- 2020/2/24 v3 リリース  
+  ルックアップフィールドに対応  
+  テーブルのフィールドを選択できないように修正
+
 - 2019/12/8 v2 リリース  
   軽微な不具合の修正
 
