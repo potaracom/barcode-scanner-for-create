@@ -1,17 +1,18 @@
 # 概要
 
 kintone のレコードに バーコード(Barcode) の内容を直接登録できるプラグインです。  
-ブラウザ（kintone の画面）上でカメラを起動するので、素早くバーコードを読み取れます。
+ブラウザ（kintone の画面）上でカメラを起動するので、素早くバーコードを読み取れます。  
+連続読み込み、テーブルのフィールドにも対応しています。
 
 # 詳細
 
 以下の URL をご確認ください。  
-https://qiita.com/potara/items/473b44d1eeb9533330c9
+https://potara.net/plugin/barcode-scanner-for-create/
 
 # 利用方法
 
 以下の URL からプラグインファイルをダウンロードしてください。  
-https://github.com/potaracom/barcode-scanner-for-create/releases/download/v3/barcode-scanner-for-create-ver3.plugin.zip  
+https://github.com/potaracom/barcode-scanner-for-create/releases/download/v4/barcode-scanner-for-create-ver4.plugin.zip  
 利用を開始すると有効期間が 30 日に設定されます。
 
 # 30 日以降も利用する場合
@@ -26,6 +27,11 @@ https://github.com/potaracom/barcode-scanner-for-create/releases/download/v3/bar
 その後、プラグイン設定を再保存していただくことで有効期限以降も利用できるようになります。
 
 # 更新情報
+
+- 2021/1/25 v4 リリース  
+  バーコードの連続読み込みに対応  
+  テーブルのフィールドに対応
+
 - 2020/2/24 v3 リリース  
   ルックアップフィールドに対応  
   テーブルのフィールドを選択できないように修正
@@ -33,4 +39,4 @@ https://github.com/potaracom/barcode-scanner-for-create/releases/download/v3/bar
 - 2019/12/8 v2 リリース  
   軽微な不具合の修正
 
-- 2019/11/4 v1 リリース  
+- 2019/11/4 v1 リリース
