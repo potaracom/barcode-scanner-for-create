@@ -12,7 +12,7 @@ https://potara.net/plugin/barcode-scanner-for-create/
 # 利用方法
 
 以下の URL からプラグインファイルをダウンロードしてください。  
-https://github.com/potaracom/barcode-scanner-for-create/releases/download/v4/barcode-scanner-for-create-ver4.plugin.zip  
+https://github.com/potaracom/barcode-scanner-for-create/releases/download/v5/barcode-scanner-for-create-ver5.plugin.zip  
 利用を開始すると有効期間が 30 日に設定されます。
 
 # 30 日以降も利用する場合
@@ -27,6 +27,9 @@ https://github.com/potaracom/barcode-scanner-for-create/releases/download/v4/bar
 その後、プラグイン設定を再保存していただくことで有効期限以降も利用できるようになります。
 
 # 更新情報
+
+- 2021/6/14 v5 リリース  
+  軽微な不具合の修正
 
 - 2021/1/25 v4 リリース  
   バーコードの連続読み込みに対応  
